@@ -9,5 +9,7 @@ colors = {"red" => 0xf00, "green" => 0x0f0, "blue" => 0x00f} # ruby de hash yap�
 puts
 puts colors
 
-#arraylari ve hashleri daha ayrıntılı öğrenicem
+#arraylari ve hashleri daha ayrıntılı öğrenicem -->diziler2.rb
+
+
 
